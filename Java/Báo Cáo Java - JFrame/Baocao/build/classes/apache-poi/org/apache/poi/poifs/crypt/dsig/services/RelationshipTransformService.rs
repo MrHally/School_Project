@@ -1,0 +1,3 @@
+org.apache.poi.poifs.crypt.dsig.services.RelationshipTransformService$RelationshipTransformParameterSpec
+org.apache.poi.poifs.crypt.dsig.services.RelationshipTransformService$POIXmlDsigProvider
+org.apache.poi.poifs.crypt.dsig.services.RelationshipTransformService

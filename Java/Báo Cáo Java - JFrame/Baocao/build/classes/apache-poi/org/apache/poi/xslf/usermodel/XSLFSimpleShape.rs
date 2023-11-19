@@ -1,0 +1,10 @@
+org.apache.poi.xslf.usermodel.XSLFSimpleShape$4
+org.apache.poi.xslf.usermodel.XSLFSimpleShape$3
+org.apache.poi.xslf.usermodel.XSLFSimpleShape$2
+org.apache.poi.xslf.usermodel.XSLFSimpleShape
+org.apache.poi.xslf.usermodel.XSLFSimpleShape$1
+org.apache.poi.xslf.usermodel.XSLFSimpleShape$8
+org.apache.poi.xslf.usermodel.XSLFSimpleShape$7
+org.apache.poi.xslf.usermodel.XSLFSimpleShape$6
+org.apache.poi.xslf.usermodel.XSLFSimpleShape$5
+org.apache.poi.xslf.usermodel.XSLFSimpleShape$9

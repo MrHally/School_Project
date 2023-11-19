@@ -1,0 +1,149 @@
+
+/* Header */
+.header{
+  margin: 8px;                         
+}
+
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    background-color: transparent;
+    border-radius: 23px;
+    padding-left: 8px;
+  }
+  
+  li.nav-item {
+    float: left;
+    align-items: center;    
+  }
+  
+  li.nav-item a.nav-link {
+    font-size: 1.5em;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+/* Container */
+  .container{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .title{
+    margin-top: 120px;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 1px 1px 5px darkblue;
+  }
+
+  .title h1{
+    color: white;
+  }
+
+  /* Table */
+th {
+  text-align: left;
+}
+
+  /* Content */
+  .content{
+    padding: 25px 35px;
+    width: 900px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 1px 1px 5px grey;
+  }
+
+  /* input */
+  .card-input{
+    font-size: 18px;
+    padding: 10px 15px;
+    margin-bottom: 0;
+    border-radius: 3px;
+    box-shadow: 1px 1px 5px gray;
+    display: inline-block;
+    text-decoration: none;
+    text-align: left;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+  }
+
+  input:focus,
+  input:active:focus {
+    outline: thin dotted;
+    outline: 3px auto -webkit-focus-ring-color;
+    outline-offset: -2px;
+  }
+  input:hover,
+  input:focus {
+      color: #333;
+      text-decoration: none;
+  }
+
+  /* Select * Option*/
+  select {
+    width: 220px;
+    font-size: 18px;
+    padding: 10px 15px;
+    margin-bottom: 0;
+    border-radius: 3px;
+    box-shadow: 1px 1px 5px gray;
+    display: inline-block;
+    text-decoration: none;
+    text-align: left;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+  }
+
+/* Button */
+.btn{
+  background-color: #fff;
+  padding: 12px 15px;
+    margin-bottom: 0;
+    border-radius: 100%;
+    box-shadow: 1px 1px 5px gray;
+    display: inline-block;
+    text-decoration: none;
+    text-anchor: middle;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+}
+
+.btn button:hover:focus{
+  color: #333;
+  text-decoration: none;
+}

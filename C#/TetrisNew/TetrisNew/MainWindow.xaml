@@ -1,0 +1,29 @@
+﻿<Window x:Class="TetrisNew.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TetrisNew"
+        mc:Ignorable="d"
+        Title="Tetris" Height="450" Width="800" WindowStartupLocation="CenterScreen" Foreground="White" FontSize="30" FontFamily="Comic Sans MS">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/backgroundmain.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Text="TETRIS's" TextAlignment="Center" Margin="0,80,0,0" FontWeight="Bold" FontSize="60"/>
+
+        <Button x:Name="Startbutton" Grid.Column="1" Grid.Row="2" Width="200" Height="50" Content="Start"/>
+        
+    </Grid>
+</Window>

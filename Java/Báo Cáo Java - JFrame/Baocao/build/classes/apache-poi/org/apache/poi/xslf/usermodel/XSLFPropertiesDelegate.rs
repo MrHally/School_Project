@@ -1,0 +1,12 @@
+org.apache.poi.xslf.usermodel.XSLFPropertiesDelegate$XSLFFillProperties
+org.apache.poi.xslf.usermodel.XSLFPropertiesDelegate$LineStyleDelegate
+org.apache.poi.xslf.usermodel.XSLFPropertiesDelegate$StyleMatrixDelegate
+org.apache.poi.xslf.usermodel.XSLFPropertiesDelegate$ShapeDelegate
+org.apache.poi.xslf.usermodel.XSLFPropertiesDelegate$TableCellDelegate
+org.apache.poi.xslf.usermodel.XSLFPropertiesDelegate$BackgroundDelegate
+org.apache.poi.xslf.usermodel.XSLFPropertiesDelegate$TextCharDelegate
+org.apache.poi.xslf.usermodel.XSLFPropertiesDelegate
+org.apache.poi.xslf.usermodel.XSLFPropertiesDelegate$XSLFGeometryProperties
+org.apache.poi.xslf.usermodel.XSLFPropertiesDelegate$XSLFEffectProperties
+org.apache.poi.xslf.usermodel.XSLFPropertiesDelegate$FillDelegate
+org.apache.poi.xslf.usermodel.XSLFPropertiesDelegate$FillPartDelegate

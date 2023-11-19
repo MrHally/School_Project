@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:backgroundTint="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity_chitiet">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?actionBarSize"
+        android:theme="?actionBarTheme"
+        android:background="@color/white_secondary">
+
+        <ImageButton
+            android:id="@+id/bt_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/baseline_chevron_left_24"
+            android:backgroundTint="@color/zxing_transparent"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:layout_gravity="start"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CHI TIẾT"
+            android:textSize="35sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_gravity="center"/>
+
+    </androidx.appcompat.widget.Toolbar>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_below="@+id/toolbar"
+        android:layout_height="1dp"
+        android:background="@color/darkGray"/>
+
+    <RelativeLayout
+        android:backgroundTint="@color/white"
+        android:paddingLeft="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mặt Hàng"
+        android:layout_marginTop="50dp"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_gravity="left"/>
+
+    <EditText
+        android:id="@+id/et_th"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/tvName"
+        android:maxLines="1"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:hint="Mặt Hàng"
+        android:background="@drawable/custom_input"
+        android:textColor="@color/black"
+        android:ems="10"
+        android:textSize="25sp"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:layout_below="@+id/et_th"
+        android:id="@+id/tvCatalog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thể Loại"
+        android:layout_marginTop="20dp"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+    <EditText
+        android:layout_below="@+id/tvCatalog"
+        android:id="@+id/et_tt"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:maxLines="1"
+        android:background="@drawable/custom_input"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:hint="Loại Hàng"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:layout_below="@+id/et_tt"
+        android:id="@+id/tvPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Giá Tiền"
+        android:layout_marginTop="20dp"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+    <EditText
+        android:layout_below="@+id/tvPrice"
+        android:id="@+id/et_gt"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:maxLines="1"
+        android:background="@drawable/custom_input"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:hint="Giá Tiền"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <LinearLayout
+        android:layout_marginTop="40dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/et_gt"
+        android:layout_centerHorizontal="true">
+
+    <ImageButton
+        android:id="@+id/bt_save"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/baseline_save_alt_24"
+        android:backgroundTint="@color/black"
+        android:textStyle="bold"
+        />
+
+    <ImageButton
+        android:layout_marginLeft="15dp"
+        android:id="@+id/bt_delete"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/baseline_delete_24"
+        android:backgroundTint="@color/red"
+        android:textStyle="bold"/>
+
+    </LinearLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

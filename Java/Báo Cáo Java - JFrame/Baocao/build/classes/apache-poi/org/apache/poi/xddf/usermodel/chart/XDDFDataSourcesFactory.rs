@@ -1,0 +1,15 @@
+org.apache.poi.xddf.usermodel.chart.XDDFDataSourcesFactory$AbstractCellRangeDataSource
+org.apache.poi.xddf.usermodel.chart.XDDFDataSourcesFactory$AbstractArrayDataSource
+org.apache.poi.xddf.usermodel.chart.XDDFDataSourcesFactory$4
+org.apache.poi.xddf.usermodel.chart.XDDFDataSourcesFactory$5
+org.apache.poi.xddf.usermodel.chart.XDDFDataSourcesFactory$6
+org.apache.poi.xddf.usermodel.chart.XDDFDataSourcesFactory$LiteralStringArrayDataSource
+org.apache.poi.xddf.usermodel.chart.XDDFDataSourcesFactory$StringCellRangeDataSource
+org.apache.poi.xddf.usermodel.chart.XDDFDataSourcesFactory$StringArrayDataSource
+org.apache.poi.xddf.usermodel.chart.XDDFDataSourcesFactory$1
+org.apache.poi.xddf.usermodel.chart.XDDFDataSourcesFactory
+org.apache.poi.xddf.usermodel.chart.XDDFDataSourcesFactory$2
+org.apache.poi.xddf.usermodel.chart.XDDFDataSourcesFactory$NumericalArrayDataSource
+org.apache.poi.xddf.usermodel.chart.XDDFDataSourcesFactory$3
+org.apache.poi.xddf.usermodel.chart.XDDFDataSourcesFactory$NumericalCellRangeDataSource
+org.apache.poi.xddf.usermodel.chart.XDDFDataSourcesFactory$LiteralNumericalArrayDataSource

@@ -1,0 +1,71 @@
+﻿<div class="header">
+  <ul class="nav">
+    <li class="nav-item">
+      <a class="nav-link"><b>BÁO CÁO ANGUALR</b> - NGÔ NHẬT ANH</a>
+    </li>
+  </ul>
+  <div class="title">
+    <h1>Chuyển Đổi Tiền Tệ</h1>
+  </div>
+</div>
+<div class="container">
+  <div class="content">
+    <form>
+      <Table>
+        <tr>
+          <th width="280px"><Label for="amountFromCurrency">Amount</Label></th>
+          <th width="250px"><Label for="fromCurrency">From</Label></th>
+          <th width="80px"></th>
+          <th width="220px"><Label for="toCurrency">To</Label></th>
+        </tr>
+        <tr>
+          <td>
+            <div>
+              <input class="card-input" type="text" id="amountFromCurrency" name="amountFromCurrency"
+                [(ngModel)]="amount" placeholder="Vui lòng nhập số lượng muốn đổi" />
+            </div>
+          </td>
+          <td>
+            <div class="dropdown-box">
+              <div class="custom-select">
+                <select id="fromCurrency" name="fromCurrency" aria-label="fromCurrency" [(ngModel)]="fromCurrency"
+                  style="border: none;" (change)="onCurrencyChange()">
+                  <option *ngFor="let currencys of Currencys" value="{{currencys.exchangerate}}"><img
+                      src="../assets/currency/{{currencys.icon}}" alt="" width="32" height="32" /> {{currencys.name}} -
+                    {{currencys.variable}}
+                  </option>
+                </select>
+              </div>
+            </div>
+          </td>
+          <td>
+            <div class="transfer">
+              <button class="btn" type="button" (click)="switch()"><img src="../assets/icon/transfer.png" width="20"
+                  height="20" alt=""></button>
+            </div>
+          </td>
+          <td>
+            <div class="dropdown-box">
+              <div class="custom-select">
+                <select id="toCurrency" name="toCurrency" aria-label="toCurrency" [(ngModel)]="toCurrency"
+                  style="border: none;" (change)="onCurrencyChange()">
+                  <option *ngFor="let currencys of Currencys" value="{{currencys.exchangerate}}"><img
+                      src="../assets/currency/{{currencys.icon}}" alt="" width="32" height="32" /> {{currencys.name}} -
+                    {{currencys.variable}}
+                  </option>
+                </select>
+              </div>
+            </div>
+          </td>
+        </tr>
+      </Table>
+      <div class="" style="margin-top: 15px;">
+        <label for="amountToCurrency" [ngStyle]="{'font-weight': 'bold'}">Result: </label>
+        <p id="amountToCurrency" name="amountToCurrency">
+          {{ convertCurrency().amount | number: '1.2-2' }}{{convertCurrency().fromcurrent }}
+           = 
+          {{ convertCurrency().result | number: '1.2-2' }}{{convertCurrency().tocurrent }}</p>
+      </div>
+    </form>
+  </div>
+</div>

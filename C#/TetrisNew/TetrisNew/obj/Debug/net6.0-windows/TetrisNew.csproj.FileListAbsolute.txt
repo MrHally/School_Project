@@ -1,0 +1,72 @@
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.csproj.AssemblyReference.cache
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level1.g.cs
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Lobby.g.cs
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew_MarkupCompile.cache
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew_MarkupCompile.lref
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\bin\Debug\net6.0-windows\TetrisNew.exe
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\bin\Debug\net6.0-windows\TetrisNew.deps.json
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\bin\Debug\net6.0-windows\TetrisNew.runtimeconfig.json
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\bin\Debug\net6.0-windows\TetrisNew.dll
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\bin\Debug\net6.0-windows\TetrisNew.pdb
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level1.baml
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Lobby.baml
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.g.resources
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.AssemblyInfoInputs.cache
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.AssemblyInfo.cs
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.csproj.CoreCompileInputs.cache
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.dll
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\refint\TetrisNew.dll
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.pdb
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.genruntimeconfig.cache
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\ref\TetrisNew.dll
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew_Content.g.cs
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level2.g.cs
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level2.baml
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level3.g.cs
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level4.g.cs
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level5.g.cs
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level6.g.cs
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level3.baml
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level4.baml
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level5.baml
+C:\Users\nhata\Desktop\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level6.baml
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\bin\Debug\net6.0-windows\TetrisNew.exe
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\bin\Debug\net6.0-windows\TetrisNew.deps.json
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\bin\Debug\net6.0-windows\TetrisNew.runtimeconfig.json
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\bin\Debug\net6.0-windows\TetrisNew.dll
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\bin\Debug\net6.0-windows\TetrisNew.pdb
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.csproj.AssemblyReference.cache
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level1.g.cs
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level2.g.cs
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level3.g.cs
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level4.g.cs
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level5.g.cs
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level6.g.cs
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Lobby.g.cs
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\App.g.cs
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew_Content.g.cs
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew_MarkupCompile.cache
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew_MarkupCompile.lref
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level1.baml
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level2.baml
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level3.baml
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level4.baml
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level5.baml
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Level6.baml
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\Lobby.baml
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.g.resources
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.AssemblyInfoInputs.cache
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.AssemblyInfo.cs
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.csproj.CoreCompileInputs.cache
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.dll
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\refint\TetrisNew.dll
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.pdb
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\TetrisNew.genruntimeconfig.cache
+D:\Cao Đẳng\Năm 2 - HK1\WPF\Báo cáo cuối môn\TetrisNew\TetrisNew\obj\Debug\net6.0-windows\ref\TetrisNew.dll

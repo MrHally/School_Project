@@ -1,0 +1,3 @@
+org.apache.poi.xssf.streaming.SXSSFFormulaEvaluator
+org.apache.poi.xssf.streaming.SXSSFFormulaEvaluator$SheetsFlushedException
+org.apache.poi.xssf.streaming.SXSSFFormulaEvaluator$RowFlushedException

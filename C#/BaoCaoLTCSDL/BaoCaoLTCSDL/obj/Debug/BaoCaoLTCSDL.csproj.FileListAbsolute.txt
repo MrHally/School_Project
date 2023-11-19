@@ -1,0 +1,430 @@
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.AssemblyReference.cache
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form1.resources
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Properties.Resources.resources
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_Hoadon.resources
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_SP.resources
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.GenerateResource.cache
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.CoreCompileInputs.cache
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\BaoCaoLTCSDL.exe.config
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\BaoCaoLTCSDL.exe
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\BaoCaoLTCSDL.pdb
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\EnvDTE.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\stdole.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.MSXML.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.CopyComplete
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.exe
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.pdb
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_Ban.resources
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_DoanhThu.resources
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_NV.resources
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_Signin.resources
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_ResetMK.resources
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_UpdateNhanVien.resources
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_UpdateThucAn.resources
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_Home.resources
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_ChonThucAn.resources
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.F_Nhapsoluong.resources
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_HienThiReportHD.resources
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Report\ReportHoaDon.rdlc
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_HienThiReportDT.resources
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportDT.resx
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportHD.resx
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportDT.cs
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportDT.Designer.cs
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportHD.cs
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportHD.Designer.cs
+C:\Users\nhata\source\repos\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Report\ReportDoanhThu.rdlc
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Report\ReportHoaDon.rdlc
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportDT.resx
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportDT.cs
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportDT.Designer.cs
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Report\ReportDoanhThu.rdlc
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportHD.resx
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportHD.cs
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportHD.Designer.cs
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\BaoCaoLTCSDL.exe.config
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\BaoCaoLTCSDL.exe
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\BaoCaoLTCSDL.pdb
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\EnvDTE.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\stdole.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\EnvDTE.xml
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.AssemblyReference.cache
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form1.resources
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_ChonThucAn.resources
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_HienThiReportDT.resources
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_HienThiReportHD.resources
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_ResetMK.resources
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_Signin.resources
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_UpdateNhanVien.resources
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_UpdateThucAn.resources
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.F_Nhapsoluong.resources
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Properties.Resources.resources
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_Ban.resources
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_DoanhThu.resources
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_Hoadon.resources
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_Home.resources
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_NV.resources
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_SP.resources
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.GenerateResource.cache
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.CoreCompileInputs.cache
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.CopyComplete
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.exe
+C:\Users\LONG\OneDrive\Máy tính\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.pdb
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Report\ReportHoaDon.rdlc
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportDT.resx
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportDT.cs
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportDT.Designer.cs
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Report\ReportDoanhThu.rdlc
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportHD.resx
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportHD.cs
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportHD.Designer.cs
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\BaoCaoLTCSDL.exe.config
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\BaoCaoLTCSDL.exe
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\BaoCaoLTCSDL.pdb
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\EnvDTE.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\stdole.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.MSXML.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.AssemblyReference.cache
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form1.resources
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_ChonThucAn.resources
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_HienThiReportDT.resources
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_HienThiReportHD.resources
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_ResetMK.resources
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_Signin.resources
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_UpdateNhanVien.resources
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_UpdateThucAn.resources
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.F_Nhapsoluong.resources
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Properties.Resources.resources
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_Ban.resources
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_DoanhThu.resources
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_Hoadon.resources
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_Home.resources
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_NV.resources
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_SP.resources
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.GenerateResource.cache
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.CoreCompileInputs.cache
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.CopyComplete
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.exe
+C:\Users\nhata\Downloads\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.pdb
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Report\ReportHoaDon.rdlc
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportDT.resx
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportDT.cs
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportDT.Designer.cs
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Report\ReportDoanhThu.rdlc
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportHD.resx
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportHD.cs
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportHD.Designer.cs
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\BaoCaoLTCSDL.exe.config
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\BaoCaoLTCSDL.exe
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\BaoCaoLTCSDL.pdb
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\EnvDTE.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\stdole.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.MSXML.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.AssemblyReference.cache
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form1.resources
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_ChonThucAn.resources
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_HienThiReportDT.resources
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_HienThiReportHD.resources
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_ResetMK.resources
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_Signin.resources
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_UpdateNhanVien.resources
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_UpdateThucAn.resources
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.F_Nhapsoluong.resources
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Properties.Resources.resources
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_Ban.resources
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_DoanhThu.resources
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_Hoadon.resources
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_Home.resources
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_NV.resources
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_SP.resources
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.GenerateResource.cache
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.CoreCompileInputs.cache
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.CopyComplete
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.exe
+C:\Users\nhata\OneDrive\Desktop\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.pdb
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Report\ReportHoaDon.rdlc
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportDT.resx
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportDT.cs
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportDT.Designer.cs
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Report\ReportDoanhThu.rdlc
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportHD.resx
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportHD.cs
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Form_HienThiReportHD.Designer.cs
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\BaoCaoLTCSDL.exe.config
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\BaoCaoLTCSDL.exe
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\BaoCaoLTCSDL.pdb
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\EnvDTE.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\stdole.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.AssemblyReference.cache
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form1.resources
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_ChonThucAn.resources
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_HienThiReportDT.resources
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_HienThiReportHD.resources
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_ResetMK.resources
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_Signin.resources
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_UpdateNhanVien.resources
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Form_UpdateThucAn.resources
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.F_Nhapsoluong.resources
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.Properties.Resources.resources
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_Ban.resources
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_DoanhThu.resources
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_Hoadon.resources
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_Home.resources
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_NV.resources
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.UC_SP.resources
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.GenerateResource.cache
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.CoreCompileInputs.cache
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.csproj.CopyComplete
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.exe
+D:\Cao Đẳng\Năm 3 - HK1\Lập trình cơ sở dữ liệu\Báo cáo môn LTCSDL\BaoCaoLTCSDL\BaoCaoLTCSDL\obj\Debug\BaoCaoLTCSDL.pdb

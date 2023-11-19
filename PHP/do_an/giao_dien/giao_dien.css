@@ -1,0 +1,82 @@
+﻿:root {
+  --color-body: #F9FBE7;
+  --color-heading: #DDF7E3;
+  --color-base: #643843;
+  --color-base: #643860;
+  --color-brand: #DF2E38;
+  --color-brand2: #DF2D38;
+}
+
+.bg-body {
+  background-color: var(--color-body);
+}
+
+.bg-brand {
+  background-color: var(--color-brand);
+}
+
+.text-base {
+  color: var(--color-base);
+}
+
+div.menu_ngang a {
+  color: blue;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-decoration: none;
+  font-size: 20px;
+}
+div.menu_ngang a:hover {
+  color: red;
+}
+div.menu_doc a {
+  color: blue;
+  text-decoration: none;
+  display: block;
+}
+div.menu_doc a:hover {
+  color: red;
+}
+div.phan_trang a {
+  font-size: 36px;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-decoration: none;
+  color: blue;
+}
+div.phan_trang a:hover {
+  color: red;
+}
+a {
+  text-decoration: none;
+}
+
+/* tìm kiếm */
+.dropdown-menu {
+    min-width: 250px;
+    padding: 15px;
+  }
+  
+  .dropdown-menu form {
+    margin: 0;
+  }
+  
+  .dropdown-menu .form-group {
+    margin-bottom: 0;
+  }
+  
+  .dropdown-menu input[type="text"] {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+/* giỏ hàng */
+.cart-button {
+  position: relative;
+}
+
+.cart-button .badge {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+}

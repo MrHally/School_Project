@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "icon" href ="images/logo.png" type = "image/x-icon">
+    <title>STARLink®</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="css/line-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+    <!-- NAVBAR -->
+    <div id="main">
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+            <div class="container flex-lg-column">
+                <a class="navbar-brand mx-lg-auto mb-lg-4" href="index.html">
+                    <span class="h3 fw-bold d-block d-lg-none">STARLink®</span>
+                    <img src="images/giphy.png" class="d-none d-lg-block rounded-circle" alt="" style="width: 180px; height: 180px; margin-left: 15px;">
+                    <p class="mt-1 text-center" style="font-size: 16px;">Hi <i>User</i>, Welcome back!</p>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto flex-lg-column text-lg-center">
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="account.html"><i class="las la-user"></i> Account</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="library.html"><i class="las la-archive"></i> Library</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#setting"><i class="las la-cog"></i> Setting</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="cart.html" class="nav-link"><i class="las la-shopping-bag"></i> Cart</a>
+                        </li>
+                        <li class="nav-item">
+                            <div class="form">
+                                <input class="form-control me-2 bg-base2" style="width: 200px; height: 40px;" type="text" placeholder="Search">
+                            </div>
+                        </li>
+                        <li class="nav-item mt-1">
+                            <a class="tetx-muted" href="#terms" style="font-size: 13px; text-transform: uppercase;">Terms and serivce</a>
+                            <a class="nav-link" href="signin.html">Sign in</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <!-- //NAVBAR -->
+
+    <!-- CONTENT WRAPPER -->
+    <div id="content-wrapper">
+
+        <!-- NAVBAR #1 -->
+        <div id="menu">
+            <nav class="navbar navbar-expand-sm navbar-dark fixed-top py-0">
+                <div class="container-fluid">
+                    <div class="collapse navbar-collapse" id="mynavbar">
+                        <a class="navbar-brand btn-brand rounded-circle m-1" href=""><img src="images/logo.png" style="width: 40px;" alt=""></a>
+                      <ul class="navbar-nav me-auto">
+                        <li class="nav-item" style="margin-bottom: 12px;">
+                          <a class="nav-link" href="index.html"><i class="las la-home"></i> Home</a>
+                        </li>
+                      </ul>
+                    </div>
+                </div>
+              </nav>
+        </div>
+        <!-- //NAVBAR-->
+
+        <!-- HOME -->
+        <section id="home" class="px-lg-5">
+            <div id="demo" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+                    <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+                    <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+                    <button type="button" data-bs-target="#demo" data-bs-slide-to="3"></button>
+                    <button type="button" data-bs-target="#demo" data-bs-slide-to="4"></button>
+                </div>
+                
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                    <img src="images/Carousel1.jpg" alt="" class="d-block w-100">
+                    </div>
+                    <div class="carousel-item">
+                    <img src="images/Carousel2.jpg" alt="" class="d-block w-100">
+                    </div>
+                    <div class="carousel-item">
+                    <img src="images/Carousel3.jpg" alt="" class="d-block w-100">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="images/Carousel4.jpg" alt="" class="d-block w-100">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="images/Carousel5.jpg" alt="" class="d-block w-100">
+                    </div>
+                </div>
+                
+                <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon"></span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+                    <span class="carousel-control-next-icon"></span>
+                </button>
+              </div>
+
+              <!-- MENU #2 -->
+              <ul class="nav d-flex justify-content-center mt-4">
+                <li class="nav-item">
+                  <a class="link-custom" href="#browse">BROWSE</a>
+                </li>
+                <li class="nav-item">
+                  <a class="link-custom" href="#games">GAMES</a>
+                </li>
+                <li class="nav-item">
+                  <a class="link-custom" href="#forums">FORUMS</a>
+                </li>
+                <li class="nav-item">
+                    <a class="link-custom" href="#reviews">REVIEW</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="link-custom" href="#about">ABOUT</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="link-custom" href="#contact">CONTACT</a>
+                  </li>
+              </ul>
+        </section>
+        <!-- //HOME -->
+        <hr>
+        <!-- BROWSE -->
+        <section id="browse" class="full-height px-lg-5">
+            <div class="container browse-list">
+
+                <div class="row pb-4" data-aos="fade-up" style="padding-bottom: 10px;">
+                    <div class="col-lg-8">
+                        <h6 class="text-base">BROWSE</h6>
+                    </div>
+                </div>
+                <div class="row gy-4 ">
+                    <div class="col-md-4" data-aos="fade-up">
+                        <div class="card-custom rounded-4 bg-base shadow-effect" style="width: auto; height: fit-content;">
+                            <div class="card-custom-image rounded-4">
+                                <tag type="is-danger" class="discount px-2 py-1 bg-success rounded-4">Free</tag>
+                                <img class="card-custom-image rounded-4" src="images/Carousel6.jpg" alt="Card image">
+                            </div>
+                            <div class="card-custom-content p-4">
+                              <h4 class="card-title">GENSHIN IMPACT</h4>
+                              <p class="card-text">miHoYo</p>
+                              <a href="product.html" class="btn btn-brand w-100">Free</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4" data-aos="fade-up">
+                        <div class="card-custom rounded-4 bg-base shadow-effect" style="width: auto; height: fit-content;">
+                            <div class="card-custom-image rounded-4">
+                                <tag type="is-danger" class="discount px-2 py-1 bg-danger rounded-4">0%</tag>
+                                <img class="card-custom-image rounded-4" src="images/Carousel2.jpg" alt="Card image">
+                            </div>
+                            <div class="card-custom-content p-4">
+                              <h4 class="card-title">GTA V</h4>
+                              <p class="card-text">Rockstar Games</p>
+                              <a href="#" class="btn btn-brand w-100">299,000đ</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4" data-aos="fade-up">
+                        <div class="card-custom rounded-4 bg-base shadow-effect" style="width: auto; height: fit-content;">
+                            <div class="card-custom-image rounded-4">
+                                <tag type="is-danger" class="discount px-2 py-1 bg-danger rounded-4">0%</tag>
+                                <img class="card-custom-image rounded-4" src="images/Carousel3.jpg" alt="Card image">
+                            </div>
+                            <div class="card-custom-content p-4">
+                              <h4 class="card-title" style="font-size: auto;">Sekiro™</h4>
+                              <p class="card-text">Activision</p>
+                              <a href="#" class="btn btn-brand w-100">499,000đ</a>
+                            </div>
+                        </div>
+                    </div>
+                <a class="btn test-base py-0 px-1 mt-3 w-100" data-aos="fade-up" href="#">MORE >></a>
+                </div>
+            </div>
+        </section>
+        <!-- //BROWSE -->
+
+        <!-- GAMES -->
+        <section id="games" class="full-height px-lg-5">
+            <div class="container">
+
+                <div class="pb-4" data-aos="fade-up">
+                    <h6 class="text-brand">GAMES</h6>
+                </div>
+
+                <div class="row gy-4">
+
+                    <div class="col-md-4" data-aos="fade-up">
+                        <div class="card-custom rounded-4 bg-base shadow-effect">
+                            <div class="card-custom-image rounded-4">
+                                <img class="rounded-4" src="images/Carousel1.jpg" alt="">
+                            </div>
+                            <div class="card-custom-content p-4">
+                                <h4>Gotham Knights</h4>
+                                <p>GENRE: Action, Adventure, RPG</p>
+                                <div class="row gy-4 justify-content-between">
+                                    <div class="col-auto">
+                                        <a href="#" class="link-custom">499,000đ</a>
+                                    </div>
+                                    <div class="col-auto">
+                                        <a href="#" class="btn btn-brand px-1 py-0"><i class="las la-heart"></i></a>
+                                        <a href="#" class="btn btn-brand px-1 py-0"><i class="las la-cart-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
+                        <div class="card-custom rounded-4 bg-base shadow-effect">
+                            <div class="card-custom-image rounded-4">
+                                <img class="rounded-4" src="images/Carousel2.jpg" alt="">
+                            </div>
+                            <div class="card-custom-content p-4">
+                                <h4>Grand Theft Auto 5: PE</h4>
+                                <p>GENRE: Action, Adventure</p>
+                                <div class="row gy-4 justify-content-between">
+                                    <div class="col-auto">
+                                        <a href="#" class="link-custom">299,000đ</a>
+                                    </div>
+                                    <div class="col-auto">
+                                        <a href="#" class="btn btn-brand px-1 py-0"><i class="las la-heart"></i></a>
+                                        <a href="#" class="btn btn-brand px-1 py-0"><i class="las la-cart-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4" data-aos="fade-up">
+                        <div class="card-custom rounded-4 bg-base shadow-effect">
+                            <div class="card-custom-image rounded-4">
+                                <img class="rounded-4" src="images/Carousel3.jpg" alt="">
+                            </div>
+                            <div class="card-custom-content p-4">
+                                <h4>Sekiro™: Shadows Die Twice</h4>
+                                <p>GENRE: Action, Adventure</p>
+                                <div class="row gy-4 justify-content-between">
+                                    <div class="col-auto">
+                                        <a href="#" class="link-custom">499,000đ</a>
+                                    </div>
+                                    <div class="col-auto">
+                                        <a href="#" class="btn btn-brand px-1 py-0"><i class="las la-heart"></i></a>
+                                        <a href="#" class="btn btn-brand px-1 py-0"><i class="las la-cart-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
+                        <div class="card-custom rounded-4 bg-base shadow-effect">
+                            <div class="card-custom-image rounded-4">
+                                <img class="rounded-4" src="images/Carousel4.jpg" alt="">
+                            </div>
+                            <div class="card-custom-content p-4">
+                                <h4>Minecraft</h4>
+                                <p>GENRE: Sandbox, Adventure, Action</p>
+                                <div class="row gy-4 justify-content-between">
+                                    <div class="col-auto">
+                                        <a href="#" class="link-custom">329,000đ</a>
+                                    </div>
+                                    <div class="col-auto">
+                                        <a href="#" class="btn btn-brand px-1 py-0"><i class="las la-heart"></i></a>
+                                        <a href="#" class="btn btn-brand px-1 py-0"><i class="las la-cart-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4" data-aos="fade-up">
+                        <div class="card-custom rounded-4 bg-base shadow-effect">
+                            <div class="card-custom-image rounded-4">
+                                <img class="rounded-4" src="images/Carousel5.jpg" alt="">
+                            </div>
+                            <div class="card-custom-content p-4">
+                                <h4>Call of Duty®: Modern Warfare® II</h4>
+                                <p>GENRE: Action, FPS, Online</p>
+                                <div class="row gy-4 justify-content-between">
+                                    <div class="col-auto">
+                                        <a href="#" class="link-custom">699,000đ</a>
+                                    </div>
+                                    <div class="col-auto">
+                                        <a href="#" class="btn btn-brand px-1 py-0"><i class="las la-heart"></i></a>
+                                        <a href="#" class="btn btn-brand px-1 py-0"><i class="las la-cart-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4" data-aos="fade-up">
+                        <div class="card-custom rounded-4 bg-base shadow-effect">
+                            <div class="card-custom-image rounded-4">
+                                <img class="rounded-4" src="images/Carousel6.jpg" alt="">
+                            </div>
+                            <div class="card-custom-content p-4">
+                                <h4>GENSHIN IMPACT</h4>
+                                <p>GENRE: Adventure, Open World, RPG</p>
+                                <div class="row gy-4 justify-content-between">
+                                    <div class="col-auto">
+                                        <a href="#" class="link-custom">Free</a>
+                                    </div>
+                                    <div class="col-auto">
+                                        <a href="#" class="btn btn-brand px-1 py-0"><i class="las la-heart"></i></a>
+                                        <a href="#" class="btn btn-brand px-1 py-0"><i class="las la-cart-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4" data-aos="fade-up">
+                        <div class="card-custom rounded-4 bg-base shadow-effect">
+                            <div class="card-custom-image rounded-4">
+                                <img class="rounded-4" src="images/Carousel7.png" alt="">
+                            </div>
+                            <div class="card-custom-content p-4">
+                                <h4>FIFA 23:</h4>
+                                <p>GENRE: Simulation, Sports</p>
+                                <div class="row gy-4 justify-content-between">
+                                    <div class="col-auto">
+                                        <a href="#" class="link-custom">239,000đ</a>
+                                    </div>
+                                    <div class="col-auto">
+                                        <a href="#" class="btn btn-brand px-1 py-0"><i class="las la-heart"></i></a>
+                                        <a href="#" class="btn btn-brand px-1 py-0"><i class="las la-cart-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4" data-aos="fade-up">
+                        <div class="card-custom rounded-4 bg-base shadow-effect">
+                            <div class="card-custom-image rounded-4">
+                                <img class="rounded-4" src="images/Carousel8.jpg" alt="">
+                            </div>
+                            <div class="card-custom-content p-4">
+                                <h4>SUMMERTIME SAGA</h4>
+                                <p>GENRE: Roleplay, Romance, Visual Novel</p>
+                                <div class="row gy-4 justify-content-between">
+                                    <div class="col-auto">
+                                        <a href="#" class="link-custom">79,000đ</a>
+                                    </div>
+                                    <div class="col-auto">
+                                        <a href="#" class="btn btn-brand px-1 py-0"><i class="las la-heart"></i></a>
+                                        <a href="#" class="btn btn-brand px-1 py-0"><i class="las la-cart-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <a class="btn btn-brand py-0 px-1 mt-3 w-100" data-aos="fade-up" href="#">MORE >></a>
+            </div>
+        </section>
+        <!-- //GAMES -->
+
+        <!-- FOURMS -->
+        <section id="forums" class="full-height px-lg-5">
+            <div class="container">
+
+                <div class="pb-4" data-aos="fade-up">
+                    <h6 class="text-brand">FORUMS</h6>
+                </div>
+
+                <div class="row gy-5">
+                    <div class="col-lg-6">
+
+                        <div class="row gy-4">
+
+                            <div class="col-12" data-aos="fade-up" data-aos-delay="600">
+                                <div class="bg-base rounded-4 shadow-effect">
+                                    <div class="row g-0">
+                                        <div class="card-custom-image col-lg-5">
+                                            <img class="rounded-4" src="images/side-banner6.webp" alt="" siyles="height:auto;">
+                                        </div>
+                                        <div class="card-custom-content col-lg-7 p-4">
+                                            <h4>GENSHIN IMPACT</h4>
+                                            <p class="text-brand mb-2">NOOBMASTER69</p>
+                                            <p class="mb-0">A Official Guide For Beginner</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-12" data-aos="fade-up" data-aos-delay="600">
+                                <div class="bg-base rounded-4 shadow-effect">
+                                    <div class="row g-0">
+                                        <div class="card-custom-image col-lg-5">
+                                            <img class="rounded-4" src="images/side-banner4.webp" alt="" siyles="height:auto;">
+                                        </div>
+                                        <div class="card-custom-content col-lg-7 p-4">
+                                            <h4>MINECRAFT</h4>
+                                            <p class="text-brand mb-2">GAMEMASTER</p>
+                                            <p class="mb-0">1.19.1 RELEASE!</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-12" data-aos="fade-up" data-aos-delay="600">
+                                <div class="bg-base rounded-4 shadow-effect">
+                                    <div class="row g-0">
+                                        <div class="card-custom-image col-lg-5">
+                                            <img class="rounded-4" src="images/side-banner2.webp" alt="" siyles="height:auto;">
+                                        </div>
+                                        <div class="card-custom-content col-lg-7 p-4">
+                                            <h4>GTA V</h4>
+                                            <p class="text-brand mb-2">SLUTMAKER</p>
+                                            <p class="mb-0">THE WORST HEIST EVER!</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-6">
+
+                        <div class="row gy-4">
+
+                            <div class="col-12" data-aos="fade-up" data-aos-delay="600">
+                                <div class="bg-base rounded-4 shadow-effect">
+                                    <div class="row g-0">
+                                        <div class="card-custom-image col-lg-5">
+                                            <img class="rounded-4" src="images/side-banner7.webp" alt="" siyles="height:auto;">
+                                        </div>
+                                        <div class="card-custom-content col-lg-7 p-4">
+                                            <h4>FIFA 23</h4>
+                                            <p class="text-brand mb-2">FOOTBALL_229</p>
+                                            <p class="mb-0">Bans and Suspension Information</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-12" data-aos="fade-up" data-aos-delay="600">
+                                <div class="bg-base rounded-4 shadow-effect">
+                                    <div class="row g-0">
+                                        <div class="card-custom-image col-lg-5">
+                                            <img class="rounded-4" src="images/side-banner5.webp" alt="" siyles="height:auto;">
+                                        </div>
+                                        <div class="card-custom-content col-lg-7 p-4">
+                                            <h4>CALL OF Duty® MW2</h4>
+                                            <p class="text-brand mb-2">NOOBMASTER69</p>
+                                            <p class="mb-0">TIP AND TRICKS TO BECOME A PRO</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+                <a class="btn btn-brand py-0 px-1 mt-3 w-100" data-aos="fade-up" href="#">MORE >></a>
+            </div>
+        </section>
+        <!-- //FOURMS -->
+
+        <!-- REVIEWS -->
+        <section id="reviews" class="full-height px-lg-5">
+            <div class="container">
+
+                <div class="row pb-4" data-aos="fade-up">
+                    <div class="col-lg-8">
+                        <h6 class="text-brand">REVIEWS</h6>
+                        <h1>From our customer</h1>
+                    </div>
+                </div>
+
+                <div class="row gy-4">
+
+                    <div class="col-md-4" data-aos="fade-up">
+
+                        <div class="review shadow-effect bg-base p-4 rounded-4">
+                            <div class="text-brand h5">
+                                <i class="las la-star"></i>
+                                <i class="las la-star"></i>
+                                <i class="las la-star"></i>
+                                <i class="las la-star"></i>
+                                <i class="las la-star"></i>
+                            </div>
+                            <p class="my-3">Nice interface, well design web.</p>
+                            <div class="person">
+                                <h5 class="mb-0">NOOBMASTER69</h5>
+                                <p class="mb-0">Facebook</p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
+
+                        <div class="review shadow-effect bg-base p-4 rounded-4">
+                            <div class="text-brand h5">
+                                <i class="las la-star"></i>
+                                <i class="las la-star"></i>
+                                <i class="las la-star"></i>
+                                <i class="las la-star"></i>
+                                <i class="las la-star"></i>
+                            </div>
+                            <p class="my-3">Best place to find a decent price and awesome staff help.</p>
+                            <div class="person">
+                                <h5 class="mb-0">HJ</h5>
+                                <p class="mb-0">Twitter</p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-4" data-aos="fade-up" data-aos-delay="600">
+
+                        <div class="review shadow-effect bg-base p-4 rounded-4">
+                            <div class="text-brand h5">
+                                <i class="las la-star"></i>
+                                <i class="las la-star"></i>
+                                <i class="las la-star"></i>
+                                <i class="las la-star"></i>
+                                <i class="las la-star"></i>
+                            </div>
+                            <p class="my-3">Best game shop I have ever used.</p>
+                            <div class="person">
+                                <h5 class="mb-0">Tosi</h5>
+                                <p class="mb-0">Facebook</p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <a class="btn btn-brand py-0 px-1 mt-3 w-100" data-aos="fade-up" href="#">MORE >></a>
+            </div>
+        </section>
+        <!-- //REVIEWS -->
+
+        <!-- ABOUT -->
+        <section id="about" class="full-height px-lg-5">
+            <div class="container" data-aos="fade-up">
+
+                <h6 class="text-brand">ABOUT</h6>
+                <img class="bg-brand py-4 mb-3 rounded-circle w-auto h-auto" src="images/logo.png" alt="">
+                <h3>STARLink® IS THE GAMEPAGE HAS TO OFFER TO GAMER WITH THE NEWEST GAME, SPECIAL OFFERS WITH MUTI-SALE ON HANDS AND ACTIVE COMMUNTIY.</h3>
+                <div class="row g-0 m-3">
+                    <div class="col-lg-2 data-aos="fade-up"">
+                        <h5><span class="bg-success rounded-circle m-2" style="padding: 1px 13px;"></span>ONLINE</h5>
+                        <h6 style="padding-left: 20px;">179,999,210</h6>
+                    </div>
+                    <div class="col-lg-2" data-aos="fade-up">
+                        <div class="line"  style="border-left: 3px dashed #033f47;">
+                            <h5><span class="bg-primary rounded-circle m-2" style="padding: 1px 13px;"></span>PURCHASED</h5>
+                            <h6 style="padding-left: 20px;">19,999,210</h6>
+                        </div>
+                    </div>
+                </div>
+                <a href="#" class="btn btn-brand" data-aos="fade-up">LEARN MORE >></a>
+
+            </div>
+        </section>
+        <!-- //BLOG -->
+
+        <!-- CONTACT -->
+        <section id="contact" class="full-height px-lg-5">
+            <div class="container">
+
+                <div class="row justify-content-center text-center">
+                    <div class="col-lg-8 pb-4" data-aos="fade-up">
+                        <h6 class="text-brand">CONTACT</h6>
+                        <h1>Got a question? Contact us!</h1>
+                    </div>
+
+                    <div class="col-lg-8" data-aos="fade-up" data-aos-delay="300">
+                        <form action="#" class="row g-lg-3 gy-3">
+                            <div class="form-group col-md-6">
+                                <input type="text" class="form-control" placeholder="Enter your name">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input type="email" class="form-control" placeholder="Enter your email">
+                            </div>
+                            <div class="form-group col-12">
+                                <input type="text" class="form-control" placeholder="Enter subject">
+                            </div>
+                            <div class="form-group col-12">
+                                <textarea name="" rows="4" class="form-control" placeholder="Enter your message"></textarea>
+                            </div>
+                            <div class="form-group col-12 d-grid">
+                                <button type="submit" class="btn btn-brand">Contact me</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+
+            </div>
+        </section>
+        <!-- //CONTACT -->
+
+        <!-- FOOTER -->
+        <footer class="py-5 px-lg-5">
+            <div class="container">
+                <div class="row gy-4 justify-content-between">
+                    <div class="col-lg-6">
+                        <a href="#" class="fw-bold">Visit Us</a>
+                            <div class="footer-info m-4">
+                                <h5>STARLink®</h5>
+                                <h6>+84-522-811-354</h6>
+                                <h6>413, 30/4 Street, Hưng Lợi Ward, Ninh Kiều Districts, Can Tho City</h6>
+                            </div>
+                        <a href="#" class="fw-bold">Follow Us</a>
+                        <div class="social-icons mt-4">
+                            <a href="#"><i class="lab la-twitter"></i></a>
+                            <a href="#"><i class="lab la-instagram"></i></a>
+                            <a href="#"><i class="lab la-facebook"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=250&amp;hl=en&amp;q=Can Tho&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://formatjson.org/">format json</a></div><style>.mapouter{position:relative;text-align:right;width:100%;height:250px;}.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:250px;}.gmap_iframe {height:250px!important;}</style></div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- //FOOTER -->
+
+    </div>
+    <!-- //CONTENT WRAPPER -->
+
+
+    
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>

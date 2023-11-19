@@ -1,0 +1,41 @@
+﻿:root {
+    --color-body: #F9FBE7;
+    --color-heading: #DDF7E3;
+    --color-base: #643843;
+    --color-brand: #DF2E38;
+    --color-brand2: #DF2D38;
+}
+
+.bg-base{
+    background-color: var(--color-base);
+}
+
+.bg-brand{
+    background-color: var(--color-brand);
+}
+
+body{
+    background-color: var(--color-body);
+}
+
+table.tb_a1{
+    background-color: white;
+}
+
+table.tb_a1 tr.a_1 {height:30px;}
+table.tb_a1 tr.a_1:hover {background:#FFFF99;}
+table.tb_a1 tr.a_1:hover a:hover {font-weight: bold;}
+
+/* Thông tin hóa đơn */
+.a_2{
+    background-color: var(--color-heading);
+}
+
+a.lk_a1{text-decoration:none;color: var(--color-base);}
+a.lk_a1:hover{color:red;}
+
+a.phan_trang{text-decoration:none;color: var(--color-base);font-size:22px;}
+a.phan_trang:hover{color:red;}
+
+a.lk_c2{text-decoration:none;color:var(--color-heading);padding:10px;font-size:22px;line-height:70px; background-color: var(--color-brand); border-radius: 8px;}
+a.lk_c2:hover{color:var(--color-heading); background-color: var(--color-brand2); border-radius: 8px;}
